@@ -1,0 +1,37 @@
+body{
+  background-color:brown;
+}
+h2{
+  font-family:Lobster;
+  color:white;
+  font-size:48px;
+}
+#mainBody{
+  height:400px;
+  width:800px;
+  color:white;
+  margin: auto;
+  background-color:White;
+}
+h6{
+  font-size:30px;
+}
+#quoteBody{
+  margin:auto;
+  height:200px;
+  width:600px;
+  background-color:Bisque;
+  color:brown;
+  font-family:Andika;
+  border-radius:20px
+}
+#author-body{
+  margin-left:500px;
+  
+}
+h3{
+  font-family:Tangerine;
+  font-weight: bold;
+  font-size:30px;
+  color:LightSalmon;
+}
