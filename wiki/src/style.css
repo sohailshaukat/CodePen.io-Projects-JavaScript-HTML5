@@ -1,0 +1,73 @@
+body{
+  background-size:100% 100%;
+  height:1600px;
+  width:800px;
+  margin:auto;
+  margin-top:10px;
+  background-image: url("https://image.ibb.co/c4Odwb/geometric_shapes_art_wallpaper_3554x1999.jpg"); 
+}
+#userField{
+ background-color:
+DarkOrange;
+ height:300px;
+ opacity:0.5;
+  align:center;
+}
+#searchResult{
+margin-top:20px;
+}
+h1{
+  color:white;
+  font-family:Lobster;
+  font-size:72px;
+  background-color:black;
+}
+h1:hover{
+  color:DarkOrange;
+  text-decoration:none;
+}
+h2{
+  padding-top:50px;
+  padding-left:20px;
+  padding-right:20px;
+  color:white;
+  font-family:Andika;
+}
+h3{
+  color:White;
+  font-weight:bold;
+  font-decoration:underline;
+  
+}
+#input-box{
+  width:30%;
+  margin:auto;
+  background-color:black:
+}
+#search-button{
+  margin-top:20px;
+}
+ul{
+  align:center;
+  margin-:auto;
+  margin-right:30px;
+}
+li{
+  list-style-type:none;
+  border-left-style:solid;
+  border-bottom-style:dotted;
+  border-width:1px;
+  border-color:white;
+  background-color:LightSalmon;
+  opacity:0.7;
+}
+li a:hover{
+  text-decoration:none;
+  opacity:1;
+  color:white;
+}
+li:hover{
+  background-color:salmon;
+  color:white;
+  opacity:1;
+}
