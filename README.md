@@ -1,4 +1,4 @@
-"# JavaScript" 
+### Easy to understand HTML5 and JavaScript projects on codepen.io 
 
 This repository contains some of the projects from freecodecamp.org built with HTML5, CSS3, JavaScript on codepen.io .
 Below given are the links to all the web-apps in the repo: 
